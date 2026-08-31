@@ -42,7 +42,7 @@ Digital calorimetry with ~100 um pixels is an active field with a lot of groups 
 
 ### MAGIS-100
 
-For Fermilab's 100 m atom interferometer I designed the diagnostic imaging system: atom-cloud monitoring and steering across the full baseline, so the instrument can operate at any of its 14 connection nodes. Separately, under the same SLAC LDRD, our group developed a light-field imaging camera for cold atom clouds; my contribution there was the neural-network 3D reconstruction, and I'm first-listed inventor on the [resulting patent](https://patents.google.com/patent/US12563283B2/en) ([JINST 17 P08021](https://doi.org/10.1088/1748-0221/17/08/P08021)). That work was during my PhD and the code is collaboration-internal, so the paper and the patent are the public artifacts.
+For Fermilab's 100 m atom interferometer I designed the Distributed Imaging System: atom-cloud monitoring and steering across the full baseline, so the instrument can operate at any of its 14 connection nodes. Separately, under the same SLAC LDRD, our group developed a light-field imaging camera for cold atom clouds; my contribution there was the neural-network 3D reconstruction, and I'm first-listed inventor on the [resulting patent](https://patents.google.com/patent/US12563283B2/en) ([JINST 17 P08021](https://doi.org/10.1088/1748-0221/17/08/P08021)). That work was during my PhD and the code is collaboration-internal, so the paper and the patent are the public artifacts.
 
 Beyond these, most of my CMS and ATLAS collaboration code lives in CERN's internal GitLab and isn't mirrored publicly.
 
@@ -59,6 +59,8 @@ A fair amount of my work sits in private repositories, either because it's colla
 **Simulation and diagnostics for atom interferometry**, alongside the published imaging work.
 
 **Papers and internal notes in progress**: drafting for the ETROC2 design and performance papers, and ATLAS analysis notes from my exotic-Higgs work.
+
+**Something of my own, early and quiet.** I'm building a product on the side. Not ready to say more about it yet.
 
 **Machine-learning coursework and side projects** from Stanford, plus the occasional thing I build for my own use.
 
@@ -84,7 +86,7 @@ Peer-reviewed papers where I'm one of a small team:
 
 Instrument and collaboration papers where my own contribution is a named subsystem:
 
-- "Matter-wave Atomic Gradiometer Interferometric Sensor (MAGIS-100)", Quantum Sci. Technol. 6 (2021) 044003: [arXiv:2104.02835](https://arxiv.org/abs/2104.02835). The MAGIS-100 instrument paper, one of 48 authors in alphabetical order; the diagnostic imaging system in it is my design.
+- "Matter-wave Atomic Gradiometer Interferometric Sensor (MAGIS-100)", Quantum Sci. Technol. 6 (2021) 044003: [arXiv:2104.02835](https://arxiv.org/abs/2104.02835). The MAGIS-100 instrument paper, one of 48 authors in alphabetical order; the Distributed Imaging System described in it is my design.
 
 Community reviews I wrote sections of, and a note:
 
@@ -93,6 +95,11 @@ Community reviews I wrote sections of, and a note:
 - "Digluon Tagging using sqrt(s) = 13 TeV pp Collisions in the ATLAS Detector", ATL-PHYS-PUB-2021-027
 - "Simultaneous Jet Energy and Mass Calibrations with Neural Networks", ATL-PHYS-PUB-2020-001
 - "Rescuing VBF Higgs Invisible Events with Novel Vertex Selection", ATL-PHYS-PROC-2020-042
+
+White papers I'm a signatory to, listed for completeness rather than as my own work:
+
+- "United States Muon Collider Community White Paper for the European Strategy for Particle Physics Update": [arXiv:2503.23695](https://arxiv.org/abs/2503.23695)
+- "Strategy for Understanding the Higgs Physics: The Cool Copper Collider": [arXiv:2203.07646](https://arxiv.org/abs/2203.07646)
 
 Patent, award, and talks:
 
