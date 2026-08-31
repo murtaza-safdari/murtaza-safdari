@@ -75,17 +75,28 @@ The public slice under my own username:
 
 ## Selected publications and proof
 
-- "Parametrizing the Detector Response with Neural Networks", JINST 15 (2020) P01030: [doi:10.1088/1748-0221/15/01/P01030](https://doi.org/10.1088/1748-0221/15/01/P01030)
-- "Novel light field imaging device with enhanced light collection for cold atom clouds", JINST 17 (2022) P08021: [doi:10.1088/1748-0221/17/08/P08021](https://doi.org/10.1088/1748-0221/17/08/P08021)
-- "A self-certifying FPGA based pixel readout chip test system for CMS ETL detector upgrade", IEEE NSS/MIC/RTSD 2023: [doi:10.1109/NSSMICRTSD49126.2023.10338516](https://doi.org/10.1109/NSSMICRTSD49126.2023.10338516)
-- "Constellation: The Autonomous Control and Data Acquisition System for Dynamic Experimental Setups", Nucl. Instrum. Meth. A 1085 (2026) 171279: [arXiv:2601.06494](https://arxiv.org/abs/2601.06494)
-- "Shedding light on the MiniBooNE excess with searches at the LHC", Phys. Rev. D 109 (2024) 075049, one of 6 authors: [doi:10.1103/PhysRevD.109.075049](https://doi.org/10.1103/PhysRevD.109.075049)
+Peer-reviewed papers where I'm one of a small team:
+
+- "Parametrizing the Detector Response with Neural Networks", JINST 15 (2020) P01030, one of 5 authors: [doi:10.1088/1748-0221/15/01/P01030](https://doi.org/10.1088/1748-0221/15/01/P01030)
+- "Novel light field imaging device with enhanced light collection for cold atom clouds", JINST 17 (2022) P08021, one of 8 authors: [doi:10.1088/1748-0221/17/08/P08021](https://doi.org/10.1088/1748-0221/17/08/P08021)
+- "Shedding light on the MiniBooNE excess with searches at the LHC", Phys. Rev. D 109 (2024) 075049, one of 6 authors: [arXiv:2310.13042](https://arxiv.org/abs/2310.13042)
+- "Constellation: The Autonomous Control and Data Acquisition System for Dynamic Experimental Setups", Nucl. Instrum. Meth. A 1085 (2026) 171279, one of 16 authors: [arXiv:2601.06494](https://arxiv.org/abs/2601.06494)
+
+Community reviews I wrote sections of, and a note:
+
+- "Axion Dark Matter", Snowmass 2021 community review: [arXiv:2203.14923](https://arxiv.org/abs/2203.14923)
+- "New Horizons: Scalar and Vector Ultralight Dark Matter", Snowmass 2021: [arXiv:2203.14915](https://arxiv.org/abs/2203.14915)
 - "Digluon Tagging using sqrt(s) = 13 TeV pp Collisions in the ATLAS Detector", ATL-PHYS-PUB-2021-027
+
+Patent, award, and talks:
+
 - US Patent 12,563,283 B2 (granted 2026), "Systems and Methods for Light Field Imaging with Mirror Arrays", first-listed inventor: [Google Patents](https://patents.google.com/patent/US12563283B2/en)
 - CMS Award 2024, cited for ETROC testing: [cms.cern](https://cms.cern/news/cms-awards-2024)
+- "Beam test results for the Endcap Timing ReadOut Chip (ETROC2) for CMS ETL upgrade", first author, talk at IEEE NSS/MIC/RTSD 2024: [record](https://doi.org/10.1109/NSS/MIC/RTSD57108.2024.10656441)
 - Invited plenary, "Deep Dive on Timing Detectors", US Muon Collider Collaboration 2025: [slides](https://indico.uchicago.edu/event/479/contributions/2030/)
+- PhD thesis, "A Novel Search for Exotic Decays of the Higgs Boson with the ATLAS Detector and Enhancing the Physics Potential of the Large Hadron Collider", CERN-THESIS-2022-211
 
-Like every member of a large CERN collaboration, I'm also an author on 599 papers with alphabetical author lists; the items above are my direct contributions.
+Like every member of a large CERN collaboration, I'm also an author on roughly 600 papers with alphabetical author lists; the items above are my direct contributions.
 
 ## Toolbox
 
