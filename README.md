@@ -92,7 +92,7 @@ Patent, award, and talks:
 
 - US Patent 12,563,283 B2 (granted 2026), "Systems and Methods for Light Field Imaging with Mirror Arrays", first-listed inventor: [Google Patents](https://patents.google.com/patent/US12563283B2/en)
 - CMS Award 2024, cited for ETROC testing: [cms.cern](https://cms.cern/news/cms-awards-2024)
-- "Beam test results for the Endcap Timing ReadOut Chip (ETROC2) for CMS ETL upgrade", first author, talk at IEEE NSS/MIC/RTSD 2024: [record](https://doi.org/10.1109/NSS/MIC/RTSD57108.2024.10656441)
+- "Beam test results for the Endcap Timing ReadOut Chip (ETROC2) for CMS ETL upgrade", the talk I gave at IEEE NSS/MIC/RTSD 2024: [record](https://doi.org/10.1109/NSS/MIC/RTSD57108.2024.10656441)
 - Invited plenary, "Deep Dive on Timing Detectors", US Muon Collider Collaboration 2025: [slides](https://indico.uchicago.edu/event/479/contributions/2030/)
 - PhD thesis, "A Novel Search for Exotic Decays of the Higgs Boson with the ATLAS Detector and Enhancing the Physics Potential of the Large Hadron Collider", CERN-THESIS-2022-211
 
