@@ -14,7 +14,7 @@ Since 2022 I've led the international characterization campaign for **ETROC**, t
 
 Machine learning runs through most of what I've done, on both collider and atomic-physics experiments. During my PhD on ATLAS I published neural-network methods for calibrating detector response, including a mode-learning loss function that lets gradient-based optimizers learn the mode of a conditional distribution, and a split-network architecture for calibrating jet energy and mass at the same time. On MAGIS-100 the 3D imaging work leans on neural fields and learned reconstruction rather than closed-form inversion. In my calorimeter R&D I'm looking at on-device ML, where the network runs at the detector rather than downstream. Most recently I've been building an AI framework for scientific software and infrastructure development at Fermilab. Different experiments, same instinct: the instrument and the algorithm should be designed against each other, not in sequence.
 
-I'm also one of two lead postdocs on the first collider search for **self-interacting dark matter**, where I mentor the students across their individual physics studies, run analysis studies of my own, and do a fair share of the framework and infrastructure work for both the SIDM and IDM searches. I supervise 5 students in total.
+I'm also one of two lead postdocs on the first collider search for **self-interacting dark matter**, where I mentor the students across their individual physics studies, run analysis studies of my own, and do a fair share of the framework and infrastructure work for both the SIDM and IDM searches. I supervise 5 students, and have mentored 11 since 2020.
 
 ## Where the work lives
 
@@ -82,11 +82,17 @@ Peer-reviewed papers where I'm one of a small team:
 - "Shedding light on the MiniBooNE excess with searches at the LHC", Phys. Rev. D 109 (2024) 075049, one of 6 authors: [arXiv:2310.13042](https://arxiv.org/abs/2310.13042)
 - "Constellation: The Autonomous Control and Data Acquisition System for Dynamic Experimental Setups", Nucl. Instrum. Meth. A 1085 (2026) 171279, one of 16 authors: [arXiv:2601.06494](https://arxiv.org/abs/2601.06494)
 
+Instrument and collaboration papers where my own contribution is a named subsystem:
+
+- "Matter-wave Atomic Gradiometer Interferometric Sensor (MAGIS-100)", Quantum Sci. Technol. 6 (2021) 044003: [arXiv:2104.02835](https://arxiv.org/abs/2104.02835). The MAGIS-100 instrument paper, one of 48 authors in alphabetical order; the diagnostic imaging system in it is my design.
+
 Community reviews I wrote sections of, and a note:
 
 - "Axion Dark Matter", Snowmass 2021 community review: [arXiv:2203.14923](https://arxiv.org/abs/2203.14923)
 - "New Horizons: Scalar and Vector Ultralight Dark Matter", Snowmass 2021: [arXiv:2203.14915](https://arxiv.org/abs/2203.14915)
 - "Digluon Tagging using sqrt(s) = 13 TeV pp Collisions in the ATLAS Detector", ATL-PHYS-PUB-2021-027
+- "Simultaneous Jet Energy and Mass Calibrations with Neural Networks", ATL-PHYS-PUB-2020-001
+- "Rescuing VBF Higgs Invisible Events with Novel Vertex Selection", ATL-PHYS-PROC-2020-042
 
 Patent, award, and talks:
 
@@ -94,9 +100,16 @@ Patent, award, and talks:
 - CMS Award 2024, cited for ETROC testing: [cms.cern](https://cms.cern/news/cms-awards-2024)
 - "Beam test results for the Endcap Timing ReadOut Chip (ETROC2) for CMS ETL upgrade", the talk I gave at IEEE NSS/MIC/RTSD 2024: [record](https://doi.org/10.1109/NSS/MIC/RTSD57108.2024.10656441)
 - Invited plenary, "Deep Dive on Timing Detectors", US Muon Collider Collaboration 2025: [slides](https://indico.uchicago.edu/event/479/contributions/2030/)
+- "Precision timing in CMS at the HL-LHC: current progress on validation and production", International Workshop on Vertex Detectors 2025
+- "From ETROC to Future Timing ASICs", IMCC and MuCol Annual Meeting 2025
+- "CMS ETROC Telescope and Test Beams", 12th Beam Telescopes and Test Beams workshop 2024
 - PhD thesis, "A Novel Search for Exotic Decays of the Higgs Boson with the ATLAS Detector and Enhancing the Physics Potential of the Large Hadron Collider", CERN-THESIS-2022-211
 
 Like every member of a large CERN collaboration, I'm also an author on roughly 600 papers with alphabetical author lists; the items above are my direct contributions.
+
+## Service and appointments
+
+Editorial Board, MTD group, CMS (since 2024) | Convenor, Online and DAQ group, MAGIS-100 (since 2023) | Principal Organizer, Colliders of Tomorrow seminar series, Fermilab LPC (since 2023) | Program Committee reviewer, Machine Learning and the Physical Sciences workshop, NeurIPS 2020 | Analysis Contact, H to aa to 4g, ATLAS (2019 to 2022) | Metcalf Internship Program mentor, Fermilab
 
 ## Toolbox
 
